@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "Grep is really useful for searching stuff."
