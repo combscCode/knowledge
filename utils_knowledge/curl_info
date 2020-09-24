@@ -1,3 +1,0 @@
-#!/bin/bash
-
-echo "curl is really useful for sending requests to servers."
